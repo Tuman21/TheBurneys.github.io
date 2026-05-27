@@ -20,4 +20,6 @@ export const router = createBrowserRouter([
       { path: 'family-and-friends', Component: FamilyAndFriends },
     ],
   },
-])
+], {
+  basename: import.meta.env.BASE_URL,
+})

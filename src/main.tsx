@@ -7,7 +7,10 @@ import './styles/index.css'
 const redirectPath = sessionStorage.getItem('redirect')
 if (redirectPath) {
   sessionStorage.removeItem('redirect')
-  void router.navigate(redirectPath, { replace: true })
+  const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+  const relative =
+    base && redirectPath.startsWith(base) ? redirectPath.slice(base.length) || '/' : redirectPath
+  void router.navigate(relative, { replace: true })
 }
 
 createRoot(document.getElementById('root')!).render(
