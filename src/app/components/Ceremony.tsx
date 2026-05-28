@@ -3,7 +3,7 @@ import { PhotoGallery } from './PhotoGallery'
 export function Ceremony() {
   const photos = [
     {
-      url: 'https://images.unsplash.com/photo-1523438885200-e635ba2c371e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://drive.google.com/file/d/1QWzmbiiF5rhYBSznN84wFzcknJuo1S96/preview',
       alt: 'Beautiful outdoor ceremony venue',
     },
     {
