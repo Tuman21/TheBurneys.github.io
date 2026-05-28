@@ -1,5 +1,6 @@
 import { Link } from 'react-router'
 
+
 export function Home() {
   const navigationCards = [
     {
@@ -33,7 +34,7 @@ export function Home() {
     <div className="relative flex min-h-screen items-center justify-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://drive.google.com/uc?export=view&id=1QWzmbiiF5rhYBSznN84wFzcknJuo1S96"
+          src="https://imgur.com/a/9fMCvZl"
           alt="The Burney's Wedding"
           className="h-full w-full object-cover"
         />
