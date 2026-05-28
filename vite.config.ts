@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   // GitHub Pages for repo: https://tuman21.github.io/TheBurneys.github.io/
-  base: '/TheBurneys.github.io/',
+  base: '/TheBurneys/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
