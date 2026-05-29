@@ -11,11 +11,11 @@ export function Gallery() {
       alt: 'Bride holding beautiful bouquet',
     },
     {
-      url: 'https://images.unsplash.com/photo-1655901856612-a7f76949fb80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/myAs3qz.jpeg',
       alt: 'Romantic couple kiss',
     },
     {
-      url: 'https://images.unsplash.com/photo-1721401870202-8e2264ecced2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/5aQcmbj.jpeg',
       alt: 'Elegant couple portrait',
     },
     {
@@ -23,23 +23,23 @@ export function Gallery() {
       alt: 'Wedding couple standing together',
     },
     {
-      url: 'https://images.unsplash.com/photo-1523438885200-e635ba2c371e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/3Ogzknm.jpeg',
       alt: 'Outdoor wedding ceremony setup',
     },
     {
-      url: 'https://images.unsplash.com/photo-1469371670807-013ccf25f16a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/tT92JVq.jpeg',
       alt: 'Wedding aisle with beautiful flowers',
     },
     {
-      url: 'https://images.unsplash.com/photo-1576694667642-6f289dd54187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/taj29oQ.jpeg',
       alt: 'Beach wedding ceremony',
     },
     {
-      url: 'https://images.unsplash.com/photo-1527529482837-4698179dc6ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/jDwd5L3.jpeg',
       alt: 'Wedding celebration toast',
     },
     {
-      url: 'https://images.unsplash.com/photo-1482575832494-771f74bf6857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/ivXbRMM.jpeg',
       alt: 'Guests dancing at reception',
     },
     {
@@ -47,7 +47,7 @@ export function Gallery() {
       alt: 'Bride and groom smiling',
     },
     {
-      url: 'https://images.unsplash.com/photo-1654994088648-e18f010da116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/CK0PuBb.jpeg',
       alt: 'Romantic couple kiss outdoors',
     },
     {
@@ -55,7 +55,7 @@ export function Gallery() {
       alt: 'Couple under wedding veil',
     },
     {
-      url: 'https://images.unsplash.com/photo-1680624629496-0a2c2444153e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/8CjzZfr.jpeg',
       alt: 'Couple dancing in elegant setting',
     },
     {

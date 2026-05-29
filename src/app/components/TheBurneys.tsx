@@ -7,19 +7,19 @@ export function TheBurneys() {
       alt: 'Couple embracing at sunset',
     },
     {
-      url: 'https://images.unsplash.com/photo-1767790692829-4b5f70919881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/jDwd5L3.jpeg',
       alt: 'Intimate moment at golden hour',
     },
     {
-      url: 'https://images.unsplash.com/photo-1776266099566-676119a0f06e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/myAs3qz.jpeg',
       alt: 'Romantic outdoor embrace',
     },
     {
-      url: 'https://images.unsplash.com/photo-1776266099675-f8b0792a497d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/taj29oQ.jpeg',
       alt: 'Couple in sunlight',
     },
     {
-      url: 'https://images.unsplash.com/photo-1776267288022-e67809841fb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/8CjzZfr.jpeg',
       alt: 'Tender moment together',
     },
     {
@@ -27,21 +27,50 @@ export function TheBurneys() {
       alt: 'Couple sharing intimate moment',
     },
     {
-      url: 'https://images.unsplash.com/photo-1778143366796-bad738f96f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/ivXbRMM.jpeg',
       alt: 'Romantic outdoor portrait',
     },
     {
-      url: 'https://images.unsplash.com/photo-1770582071285-e5d2ef206180?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/CK0PuBb.jpeg',
       alt: 'Couple back to back',
     },
     {
-      url: 'https://images.unsplash.com/photo-1765292784329-7dd08ad946f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/tT92JVq.jpeg',
       alt: 'Holding hands outdoors',
     },
     {
-      url: 'https://images.unsplash.com/photo-1765292783742-d056b0794ad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/3Ogzknm.jpeg',
       alt: 'Embracing and looking at each other',
     },
+    {
+      url: 'https://i.imgur.com/5aQcmbj.jpeg',
+      alt: 'Embracing and looking at each other',
+    },
+    {
+      url: '',
+      alt: 'Embracing and looking at each other',
+    },
+    {
+      url: '',
+      alt: 'Embracing and looking at each other',
+    },
+    {
+      url: '',
+      alt: 'Embracing and looking at each other',
+    },
+    {
+      url: '',
+      alt: 'Embracing and looking at each other',
+    },
+    {
+      url: '',
+      alt: 'Embracing and looking at each other',
+    },
+    {
+      url: '',
+      alt: 'Embracing and looking at each other',
+    },
+    
   ]
 
   return (
