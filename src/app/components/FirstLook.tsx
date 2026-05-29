@@ -15,11 +15,11 @@ export function FirstLook() {
       alt: 'Couple in dramatic archway',
     },
     {
-      url: 'https://images.unsplash.com/photo-1779055660386-c3ff4d90cfcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/5hGOY21.jpeg',
       alt: 'Emotional father-daughter moment',
     },
     {
-      url: 'https://images.unsplash.com/photo-1685524480899-7096f34cf638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/g9XlIQm.jpeg',
       alt: 'First look in front of house',
     },
     {

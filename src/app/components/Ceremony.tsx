@@ -19,15 +19,15 @@ export function Ceremony() {
       alt: 'Elegant ceremony seating',
     },
     {
-      url: 'https://images.unsplash.com/photo-1723832347953-83c28e2d4dd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/oTPvTcf.jpeg',
       alt: 'Couple at ceremony with chandelier',
     },
     {
-      url: 'https://images.unsplash.com/photo-1606490208247-b65be3d94cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/2kyDjLD.jpeg',
       alt: 'Ceremony on grass field',
     },
     {
-      url: 'https://images.unsplash.com/photo-1583939413139-19eeeb3a198c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/Vv4a2MP.jpeg',
       alt: 'Outdoor ceremony under trees',
     },
     {
@@ -35,19 +35,19 @@ export function Ceremony() {
       alt: 'Courtyard ceremony with white flowers',
     },
     {
-      url: 'https://images.unsplash.com/photo-1474867985807-96ca17098cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/XJZv9OR.jpeg',
       alt: 'Sacred ceremony moment',
     },
     {
-      url: 'https://images.unsplash.com/photo-1724855946379-451f59d45df6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/OGdawPK.jpeg',
       alt: 'Ceremony setup with mirror',
     },
     {
-      url: 'https://images.unsplash.com/photo-1672288336066-8cd91b57b510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/rtNp1ZC.jpeg',
       alt: 'Holding hands during ceremony',
     },
     {
-      url: 'https://images.unsplash.com/photo-1696204868903-91d809b4df09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/TVsfjLR.jpeg',
       alt: 'Outdoor ceremony with white chairs',
     },
   ]

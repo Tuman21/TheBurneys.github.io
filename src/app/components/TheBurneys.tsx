@@ -47,27 +47,27 @@ export function TheBurneys() {
       alt: 'Embracing and looking at each other',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/cxN3lLR.jpeg',
       alt: 'Embracing and looking at each other',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/z3sT2S7.jpeg',
       alt: 'Embracing and looking at each other',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/l9Uo3kC.jpeg',
       alt: 'Embracing and looking at each other',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/aCMoNMz.jpeg',
       alt: 'Embracing and looking at each other',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/wSTEv3Q.jpeg',
       alt: 'Embracing and looking at each other',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/l6Ytwtf.jpeg',
       alt: 'Embracing and looking at each other',
     },
     

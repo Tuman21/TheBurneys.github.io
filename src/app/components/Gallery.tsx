@@ -71,7 +71,7 @@ export function Gallery() {
       alt: 'Couple embracing',
     },
     {
-      url: 'https://images.unsplash.com/photo-1606490208247-b65be3d94cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/5hGOY21.jpeg',
       alt: 'Outdoor ceremony moment',
     },
     {
@@ -82,6 +82,63 @@ export function Gallery() {
       url: 'https://i.imgur.com/6bD3b68.jpeg',
       alt: 'Wedding guests celebrating',
     },
+    {
+      url: 'https://i.imgur.com/g9XlIQm.jpeg',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://i.imgur.com/oTPvTcf.jpeg',
+      alt: 'Couple at ceremony with chandelier',
+    },
+    {
+      url: 'https://i.imgur.com/2kyDjLD.jpeg',
+      alt: 'Ceremony on grass field',
+    },
+    {
+      url: 'https://i.imgur.com/Vv4a2MP.jpeg',
+      alt: 'Outdoor ceremony under trees',
+    },
+    {
+      url: 'https://i.imgur.com/XJZv9OR.jpeg',
+      alt: 'Sacred ceremony moment',
+    },
+    {
+      url: 'https://i.imgur.com/OGdawPK.jpeg',
+      alt: 'Ceremony setup with mirror',
+    },
+    {
+      url: 'https://i.imgur.com/rtNp1ZC.jpeg',
+      alt: 'Holding hands during ceremony',
+    },
+    {
+      url: 'https://i.imgur.com/TVsfjLR.jpeg',
+      alt: 'Outdoor ceremony with white chairs',
+    },
+    {
+      url: 'https://i.imgur.com/cxN3lLR.jpeg',
+      alt: 'Holding hands during ceremony',
+    },
+    {
+      url: 'https://i.imgur.com/z3sT2S7.jpeg',
+      alt: 'Holding hands during ceremony',
+    },
+    {
+      url: 'https://i.imgur.com/l9Uo3kC.jpeg',
+      alt: 'Holding hands during ceremony',
+    },
+    {
+      url: 'https://i.imgur.com/aCMoNMz.jpeg',
+      alt: 'Holding hands during ceremony',
+    },
+    {
+      url: 'https://i.imgur.com/wSTEv3Q.jpeg',
+      alt: 'a thing',
+    },
+    {
+      url: 'https://i.imgur.com/l6Ytwtf.jpeg',
+      alt: 'hands'
+    },
+    
   ]
 
   return (
