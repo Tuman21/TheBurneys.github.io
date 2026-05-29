@@ -3,15 +3,15 @@ import { PhotoGallery } from './PhotoGallery'
 export function FirstLook() {
   const photos = [
     {
-      url: 'https://images.unsplash.com/photo-1517456363055-5d162a453d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/fhTmoHm.jpeg',
       alt: 'Emotional first embrace',
     },
     {
-      url: 'https://images.unsplash.com/photo-1484849559669-ceae3b12a437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/ckGqw7G.jpeg',
       alt: 'First look moment',
     },
     {
-      url: 'https://images.unsplash.com/photo-1755810504990-005f22a58f43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/ibrajeh.jpeg',
       alt: 'Couple in dramatic archway',
     },
     {

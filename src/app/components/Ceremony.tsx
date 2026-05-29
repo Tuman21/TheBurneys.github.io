@@ -3,19 +3,19 @@ import { PhotoGallery } from './PhotoGallery'
 export function Ceremony() {
   const photos = [
     {
-      url: 'https://i.imgur.com/o7fqXLx.jpeg"', 
+      url: 'https://i.imgur.com/XgYb9u7.jpeg', 
       alt: 'Beautiful outdoor ceremony venue',
     },
     {
-      url: 'https://drive.google.com/uc?export=view&id=1qwzmbiif5rhybsznn84wfzcknjuo1s96',
+      url: 'https://i.imgur.com/6N05Fi2.jpeg',
       alt: 'Elegant aisle with white and pink flowers',
     },
     {
-      url: 'https://images.unsplash.com/photo-1576694667642-6f289dd54187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/AsEnnLe.jpeg',
       alt: 'Beach wedding ceremony',
     },
     {
-      url: 'https://images.unsplash.com/photo-1515715709530-858f7bfa1b10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/Z1huYzr.jpeg',
       alt: 'Elegant ceremony seating',
     },
     {
@@ -31,7 +31,7 @@ export function Ceremony() {
       alt: 'Outdoor ceremony under trees',
     },
     {
-      url: 'https://images.unsplash.com/photo-1670529776180-60e4132ab90c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/6bD3b68.jpeg',
       alt: 'Courtyard ceremony with white flowers',
     },
     {

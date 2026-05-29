@@ -19,7 +19,7 @@ export function Gallery() {
       alt: 'Elegant couple portrait',
     },
     {
-      url: 'https://images.unsplash.com/photo-1698802060978-84008afaeb72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/XgYb9u7.jpeg',
       alt: 'Wedding couple standing together',
     },
     {
@@ -43,7 +43,7 @@ export function Gallery() {
       alt: 'Guests dancing at reception',
     },
     {
-      url: 'https://images.unsplash.com/photo-1510181414401-d3f2aa71a124?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/6N05Fi2.jpeg',
       alt: 'Bride and groom smiling',
     },
     {
@@ -51,7 +51,7 @@ export function Gallery() {
       alt: 'Romantic couple kiss outdoors',
     },
     {
-      url: 'https://images.unsplash.com/photo-1679599441274-6dcac44dba0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/AsEnnLe.jpeg',
       alt: 'Couple under wedding veil',
     },
     {
@@ -59,15 +59,15 @@ export function Gallery() {
       alt: 'Couple dancing in elegant setting',
     },
     {
-      url: 'https://images.unsplash.com/photo-1652950618856-2f19ae98297c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/fhTmoHm.jpeg',
       alt: 'Couple by the ocean',
     },
     {
-      url: 'https://images.unsplash.com/photo-1694575173261-7c557fd2652b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/ckGqw7G.jpeg',
       alt: 'Bride and groom kissing under veil',
     },
     {
-      url: 'https://images.unsplash.com/photo-1683238085829-f571c9097d66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/ibrajeh.jpeg',
       alt: 'Couple embracing',
     },
     {
@@ -75,11 +75,11 @@ export function Gallery() {
       alt: 'Outdoor ceremony moment',
     },
     {
-      url: 'https://images.unsplash.com/photo-1583939413139-19eeeb3a198c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/Z1huYzr.jpeg',
       alt: 'Ceremony seating under trees',
     },
     {
-      url: 'https://images.unsplash.com/photo-1612599542558-f3022089fb38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/6bD3b68.jpeg',
       alt: 'Wedding guests celebrating',
     },
   ]
