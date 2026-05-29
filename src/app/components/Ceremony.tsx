@@ -3,11 +3,11 @@ import { PhotoGallery } from './PhotoGallery'
 export function Ceremony() {
   const photos = [
     {
-      url: 'https://imgur.com/a/9fMCvZl', 
+      url: 'https://i.imgur.com/o7fqXLx.jpeg"', 
       alt: 'Beautiful outdoor ceremony venue',
     },
     {
-      url: 'https://images.unsplash.com/photo-1469371670807-013ccf25f16a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://drive.google.com/uc?export=view&id=1qwzmbiif5rhybsznn84wfzcknjuo1s96',
       alt: 'Elegant aisle with white and pink flowers',
     },
     {
