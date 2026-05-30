@@ -327,6 +327,78 @@ export function Gallery() {
       alt: 'hands'
     },
     {
+      url: 'https://i.imgur.com/e17LBsK.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/NgppC5Q.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/l8UFd99.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/1jR56Ge.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/09kNVLu.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/gJZHkei.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
       url: '',
       alt: 'hands'
     },
