@@ -479,11 +479,11 @@ export function Gallery() {
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/NhF9VF2.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/bN1VVpc.jpeg',
       alt: 'hands'
     },
     {

@@ -147,7 +147,7 @@ export function Ceremony() {
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/NhF9VF2.jpeg',
       alt: 'hands'
     },
     {

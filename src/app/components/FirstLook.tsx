@@ -23,7 +23,7 @@ export function FirstLook() {
       alt: 'First look in front of house',
     },
     {
-      url: 'https://images.unsplash.com/photo-1588260436171-5703b8d6e835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/bN1VVpc.jpeg',
       alt: 'Dramatic first look reveal',
     },
     {
