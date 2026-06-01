@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import Masonry from 'react-responsive-masonry'
-import { Download } from 'lucide-react'
+{/*import { Download } from 'lucide-react'*/}
 import { Lightbox } from './Lightbox'
-import { downloadAllPhotos, downloadPhoto } from '../utils/downloadPhoto'
+{/*import { downloadAllPhotos, downloadPhoto } from '../utils/downloadPhoto'*/}
 
 export interface Photo {
   url: string
