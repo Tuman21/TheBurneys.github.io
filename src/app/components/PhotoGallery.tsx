@@ -129,13 +129,13 @@ export function PhotoGallery({ photos, title, description }: PhotoGalleryProps) 
         </div>
 
         <div className="mt-16 text-center">
-          <button
+          {/*<button
             type="button"
             onClick={() => void downloadAllPhotos(photos, title)}
             className="rounded-full bg-[#823327] px-8 py-4 text-lg font-medium text-white shadow-lg transition-colors duration-300 hover:bg-[#084d66] hover:shadow-xl"
           >
             Download All Photos
-          </button>
+          </button>*/}
         </div>
       </div>
 
