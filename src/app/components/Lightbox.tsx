@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
-import { ChevronLeft, ChevronRight, Download, X } from 'lucide-react'
+import { ChevronLeft, ChevronRight, X } from 'lucide-react'  /*Download,*/
 import type { Photo } from './PhotoGallery'
-import { downloadPhoto } from '../utils/downloadPhoto'
+/*import { downloadPhoto } from '../utils/downloadPhoto'*/
 
 interface LightboxProps {
   photos: Photo[]
@@ -52,9 +52,9 @@ export function Lightbox({
     }
   }
 
-  const handleDownload = () => {
+  /*const handleDownload = () => {
     void downloadPhoto(currentPhoto.url, `photo-${currentIndex + 1}.jpg`)
-  }
+  }*/
 
   const handleTouchStart = (event: React.TouchEvent) => {
     touchStartX.current = event.touches[0].clientX
