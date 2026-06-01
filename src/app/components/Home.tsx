@@ -35,7 +35,7 @@ export function Home() {
       <div className="absolute inset-0">
         <img
           src="https://i.imgur.com/o7fqXLx.jpeg"   
-          alt="The Burney's Wedding"
+          alt="The Burneys' Wedding"
           className="h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-black/60" />
