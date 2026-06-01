@@ -10,7 +10,7 @@ export function Home() {
     },
     {
       to: '/the-burneys',
-      label: "The Burneys'",
+      label: "The Burneys",
       description: 'Our intimate moments',
     },
     {
@@ -43,7 +43,7 @@ export function Home() {
 
       <div className="relative z-10 mx-auto max-w-4xl px-4 py-24 text-center">
         <h1 className="mb-4 font-serif text-5xl tracking-wide text-white sm:text-6xl md:text-7xl">
-          The Burneys'
+          The Burneys
         </h1>
         <p className="mb-16 text-xl font-light text-white/90 sm:text-2xl">
           Forever Begins Here

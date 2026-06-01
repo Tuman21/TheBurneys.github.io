@@ -9,7 +9,7 @@ export function Navigation() {
 
   const links = [
     { to: '/gallery', label: 'Gallery' },
-    { to: '/the-burneys', label: "The Burneys'" },
+    { to: '/the-burneys', label: "The Burneys" },
     { to: '/ceremony', label: 'Ceremony' },
     { to: '/first-look', label: 'First Look' },
     { to: '/family-and-friends', label: 'Family & Friends' },
@@ -35,7 +35,7 @@ export function Navigation() {
                 : 'text-[#084d66] hover:text-[#823327]'
             }`}
           >
-            The Burneys'
+            The Burneys
           </Link>
 
           <div className="hidden items-center gap-8 md:flex">

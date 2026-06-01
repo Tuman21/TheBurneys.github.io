@@ -299,7 +299,7 @@ export function TheBurneys() {
   return (
     <PhotoGallery
       photos={photos}
-      title="The Burneys'"
+      title="The Burneys"
       description="Our love story captured in intimate and personal moments"
     />
   )
